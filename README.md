@@ -19,7 +19,7 @@ O projeto consome uma API externa para geração da imagem e aplica manipulaçã
 - JavaScript (Vanilla JS)
 - API pública de geração de QR Code
 
-API utilizada: https://api.qrserver.com/v1/create-qr-code/
+API utilizada: https://quickchart.io/documentation/qr-codes/
 
 ## 📄 Funcionalidades
 
